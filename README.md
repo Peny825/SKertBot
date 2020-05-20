@@ -1,2 +1,2 @@
-# SKertBot
- SKertBOT
+# skertbot
+ to jest discord bot
